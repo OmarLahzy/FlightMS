@@ -1,0 +1,13 @@
+C:\Users\Omar.Gamal\source\repos\FlightMS\FlightMS\bin\Debug\netcoreapp3.1\FlightMS.exe
+C:\Users\Omar.Gamal\source\repos\FlightMS\FlightMS\bin\Debug\netcoreapp3.1\FlightMS.deps.json
+C:\Users\Omar.Gamal\source\repos\FlightMS\FlightMS\bin\Debug\netcoreapp3.1\FlightMS.runtimeconfig.json
+C:\Users\Omar.Gamal\source\repos\FlightMS\FlightMS\bin\Debug\netcoreapp3.1\FlightMS.runtimeconfig.dev.json
+C:\Users\Omar.Gamal\source\repos\FlightMS\FlightMS\bin\Debug\netcoreapp3.1\FlightMS.dll
+C:\Users\Omar.Gamal\source\repos\FlightMS\FlightMS\bin\Debug\netcoreapp3.1\FlightMS.pdb
+C:\Users\Omar.Gamal\source\repos\FlightMS\FlightMS\obj\Debug\netcoreapp3.1\FlightMS.csprojAssemblyReference.cache
+C:\Users\Omar.Gamal\source\repos\FlightMS\FlightMS\obj\Debug\netcoreapp3.1\FlightMS.AssemblyInfoInputs.cache
+C:\Users\Omar.Gamal\source\repos\FlightMS\FlightMS\obj\Debug\netcoreapp3.1\FlightMS.AssemblyInfo.cs
+C:\Users\Omar.Gamal\source\repos\FlightMS\FlightMS\obj\Debug\netcoreapp3.1\FlightMS.csproj.CoreCompileInputs.cache
+C:\Users\Omar.Gamal\source\repos\FlightMS\FlightMS\obj\Debug\netcoreapp3.1\FlightMS.dll
+C:\Users\Omar.Gamal\source\repos\FlightMS\FlightMS\obj\Debug\netcoreapp3.1\FlightMS.pdb
+C:\Users\Omar.Gamal\source\repos\FlightMS\FlightMS\obj\Debug\netcoreapp3.1\FlightMS.genruntimeconfig.cache
